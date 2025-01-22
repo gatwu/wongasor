@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+canvas {
+    background-color: white;
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+}
+h1 {
+    margin-top: 20px;
+}
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
